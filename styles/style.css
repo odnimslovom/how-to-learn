@@ -2,6 +2,19 @@ body{
   background-color: #2e2;
 }
 
+h1 {
+  font-family: 'Inter-Bold';
+}
+
+h2 {
+  font-family: 'Inter-SemiBold';
+}
+
+h3 {
+  font-family: 'Inter-Regular';
+}
+
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
