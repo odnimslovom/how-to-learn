@@ -1,3 +1,7 @@
+body{
+  background-color: #2e2;
+}
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
