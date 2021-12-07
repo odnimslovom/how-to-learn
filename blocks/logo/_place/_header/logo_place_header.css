@@ -6,3 +6,8 @@
   left: 64px;
   z-index: 100;
 }
+
+.logo__place_header:hover {
+  transition: opacity .2s;
+  opacity: .6;
+}
