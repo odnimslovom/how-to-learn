@@ -1,3 +1,5 @@
 .table_theme_dark {
   color: var(--white);
+  position: relative;
+  z-index: 10;
 }
