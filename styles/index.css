@@ -7,6 +7,7 @@
 
 /* Header */
 @import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
@@ -69,7 +70,7 @@
 @import url(../blocks/khan/__quote/khan__quote.css);
 @import url(../blocks/khan/__quote/khan__quote-author.css);
 @import url(../blocks/khan/__quote/khan__quote-author-subline.css);
-@import url(../blocks/khan/__book/khan__book-container.css);
+@import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book/khan__book-pic.css);
 @import url(../blocks/khan/__buy/khan__buy-link.css);
 
