@@ -1,4 +1,4 @@
-.logo__place_footer:hover {
+.logo_place_footer:hover {
   transition: opacity .2s;
   opacity: .6;
 }
